@@ -1,0 +1,9 @@
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.DAL\bin\Debug\StudentManager.DAL.dll
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.DAL\bin\Debug\StudentManager.DAL.pdb
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.DAL\bin\Debug\StudentManager.Models.dll
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.DAL\bin\Debug\StudentManager.Models.pdb
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.DAL\obj\Debug\StudentManager.DAL.csproj.AssemblyReference.cache
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.DAL\obj\Debug\StudentManager.DAL.csproj.CoreCompileInputs.cache
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.DAL\obj\Debug\StudentManager.DAL.csproj.CopyComplete
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.DAL\obj\Debug\StudentManager.DAL.dll
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.DAL\obj\Debug\StudentManager.DAL.pdb

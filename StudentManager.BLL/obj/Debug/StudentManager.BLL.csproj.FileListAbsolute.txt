@@ -1,0 +1,11 @@
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.BLL\bin\Debug\StudentManager.BLL.dll
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.BLL\bin\Debug\StudentManager.BLL.pdb
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.BLL\bin\Debug\StudentManager.DAL.dll
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.BLL\bin\Debug\StudentManager.Models.dll
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.BLL\bin\Debug\StudentManager.DAL.pdb
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.BLL\bin\Debug\StudentManager.Models.pdb
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.BLL\obj\Debug\StudentManager.BLL.csproj.AssemblyReference.cache
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.BLL\obj\Debug\StudentManager.BLL.csproj.CoreCompileInputs.cache
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.BLL\obj\Debug\StudentManager.BLL.csproj.CopyComplete
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.BLL\obj\Debug\StudentManager.BLL.dll
+C:\Users\17787806691\Desktop\学生信息管理（选）\学生信息管理（选）\CourseSelection\Stu\StudentManager.BLL\obj\Debug\StudentManager.BLL.pdb
