@@ -11,7 +11,7 @@ namespace StudentManager.DAL
 {
     public class DBHelper
     {
-        public static string connString = @"Data Source=LAPTOP-QTTK9TJM\SXR;Initial Catalog=1;Integrated Security=True";
+        public static string connString = @"Data Source=LAPTOP-7TGG596F:Initial Catalog=1;Integrated Security=True";
 
         //定义数据库连接对象
         public static SqlConnection conn = new SqlConnection(connString);
